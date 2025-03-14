@@ -1,0 +1,8 @@
+git config --global user.email "al.ghafiqi70@gmail.com" (menambahkan email yang digunakan pada akun GitHub dan pilihan local/global)
+git init (untuk inisialisasi folder git)
+git add . (untuk menambahkan seluruh file yang ada di dalam repo bisa untuk setelah kita update repo juga)
+git push (untuk upload perubahan ke repo GitHub)
+git pull (untuk mengambil perubahan yang ada di GitHub)
+git remote add origin https://github.com/AlGhafiqi70/wsp-rpl (link ke GitHub kita)
+git commit -m "commit pertama" 
+git push -u origin master (pilih master, main dll)
